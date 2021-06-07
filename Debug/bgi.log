@@ -1,0 +1,19 @@
+﻿  Paint.cpp
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(156): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(157): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(158): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(168): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(279): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(286): warning C4101: 'flag': unreferenced local variable
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(737): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(801): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(802): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(576): warning C4101: 'y0': unreferenced local variable
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(576): warning C4101: 'x0': unreferenced local variable
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(1121): warning C4101: 'j': unreferenced local variable
+c:\users\nuzha\desktop\paintbgi\bgi\paint.cpp(311): warning C4715: 'OpenShapes::containspoint': not all control paths return a value
+LINK : warning LNK4031: no subsystem specified; CONSOLE assumed
+  bgi.vcxproj -> C:\Users\Nuzha\Desktop\paintbgi\bgi\Debug\bgi.exe
+  bgi.vcxproj -> C:\Users\Nuzha\Desktop\paintbgi\bgi\Debug\bgi.pdb (Full PDB)
